@@ -36,6 +36,3 @@
 /build_*
 /build-*
 /tests/venv
-
-# vscode
-.vscode
